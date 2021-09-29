@@ -1,7 +1,4 @@
-main>.container {
-    padding: 60px 15px 0;
-    margin-bottom: 5rem;
-}
+
 
 .sticky-nav {
     position: fixed;
@@ -28,6 +25,7 @@ body {
     background-repeat: none;
     background-position: fixed;
     background-size: cover;
+    background-image:radial-gradient(circle 827px at 47.3% 48%, rgba(255, 255, 255, 1) 0%, rgba(138, 192, 216, 1) 90%);
 
 
 }
